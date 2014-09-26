@@ -1,0 +1,1 @@
+This code accompanies the look-and-say generator [tutorial](http://blog.dublinsam.com/look-and-see-generator).
