@@ -1,1 +1,1 @@
-This code accompanies the look-and-say generator [tutorial](http://blog.dublinsam.com/look-and-see-generator).
+The `look_and_say.py` file provides the code that accompanies the look-and-say generator [tutorial](http://blog.dublinsam.com/look-and-see-generator).
